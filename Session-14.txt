@@ -39,7 +39,7 @@ sh <script-name> --> for this no need of execute permission
 
 
 disk usage
-------------------------------
+--------------------------
 write a shell script that should check disk usage every one hour, and send alert email if it is consuming more than 80%
 
 you need to have gmail installed in linux

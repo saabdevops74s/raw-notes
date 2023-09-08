@@ -58,7 +58,7 @@ functions
 
 
 variables
--------------------------
+-----------------------
 DRY --> don't repeat yourself
 
 x=1, y=2, z=3

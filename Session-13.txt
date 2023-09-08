@@ -97,7 +97,7 @@ $1--> first argument
 $2--> second argument
 
 colors in shell scripting
------------------------
+--------------------------
 
 \e[31m --> red
 \e[32m --> green
