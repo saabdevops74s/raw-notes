@@ -12,7 +12,7 @@ loop:
 functions --> while improving our roboshop
 
 Ansible Roboshop
--------------------
+------------------
 1. we install all components using ansible
 2. we will improve with best practices.
 

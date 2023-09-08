@@ -15,7 +15,7 @@ private key
 inventory
 
 Multiple environments
----------------------
+----------------------
 we will have DEV and PROD
 how can ansible configure multiple environments with single playbook
 
@@ -63,7 +63,7 @@ gather_facts:
 it will check dynamically what is distribution
 
 Catalogue
----------------
+--------------
 ubuntu
 
 cart
