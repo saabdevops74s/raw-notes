@@ -109,4 +109,4 @@ there may not be change in configuration every time, change in configuration is 
 shell script --> keeping all the commands in a file with variables, conditions, loops, etc
 playbook --> keeping all the ansible collections(i.e command in linux) and run it
 
-YAML --> yet another markup language
+YAML --> yet another markup language.
